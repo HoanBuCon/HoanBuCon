@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HoanBuCon?tab=projects](https://github.com/HoanBuCon?tab=projects)
 
+- 📝 I regularly create content on [https://www.youtube.com/@hoanbucon](https://www.youtube.com/@hoanbucon)
+
 - 💬 Ask me about **TensorFlow, PyTorch, ReactJS, DiscordJS**
 
 - 📫 How to reach me **hoanbucon@gmail.com**
@@ -21,9 +23,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/hoanbucon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoanbucon" height="30" width="40" /></a>
 <a href="https://kaggle.com/hoanbucon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hoanbucon" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/lonnhim.khoailang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lonnhim.khoailang/" height="30" width="40" /></a>
-<a href="https://instagram.com/love.nilow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="love.nilow" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/lonnhim.khoaitay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lonnhim.khoaitay/" height="30" width="40" /></a>
+<a href="https://instagram.com/love.nilou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="love.nilou" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@hoanbucon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@hoanbucon" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/nckzdQE73u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/nckzdQE73u" height="30" width="40" /></a>
 </p>
@@ -36,4 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoanbucon&show_icons=true&locale=en" alt="hoanbucon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoanbucon&" alt="hoanbucon" /></p>
-
