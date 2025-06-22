@@ -9,7 +9,7 @@
 
 - 💝 My first project [Discord Bot](https://github.com/HoanBuCon/Discord-Bot)
 
-- 👨‍💻 All of my projects are available at [https://github.com/HoanBuCon?tab=projects](https://github.com/HoanBuCon?tab=projects)
+- 👨‍💻 All of my projects are available at [https://github.com/HoanBuCon?tab=repositories](https://github.com/HoanBuCon?tab=repositories)
 
 - 📝 I regularly create content on [https://www.youtube.com/@hoanbucon](https://www.youtube.com/@hoanbucon)
 
