@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **hoanbucon@gmail.com**
 
-- 📄 Know about my experiences [<bruh>](<bruh>)
+- 📄 Know about my experiences ... Bruhhh💔🥀
 
 - ⚡ Fun fact **I think I got bain damge🐧**
 
