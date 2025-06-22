@@ -7,6 +7,8 @@
   <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hoanbucon&#x26;theme=darkhub&#x26;no-frame=true&#x26;title_color=fbf1c7&#x26;text_color=d4be98" alt="GitHub Trophies"></a> </p>
 </div>
 
+<hr>
+
 - 🔭 I’m currently working on [Vietnam Traffic Sign Detection](https://github.com/HoanBuCon/Traffic-Sign-Detection)
 
 - 💝 My first project [Discord Bot](https://github.com/HoanBuCon/Discord-Bot)
@@ -22,6 +24,8 @@
 - 📄 Know about my experiences ... Bruhhh💔🥀
 
 - ⚡ Fun fact **I think I got bain damge🐧**
+
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,6 +56,8 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="photoshop" width="40" height="40"/> </a>
 </p>
+
+<hr>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hoanbucon&#x26;show_icons=true&#x26;theme=dark&#x26;hide_border=true&#x26;title_color=fbf1c7&#x26;text_color=d4be98&#x26;icon_color=83a598&#x26;show=reviews,prs_merged" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanbucon&#x26;layout=compact&#x26;theme=dark&#x26;hide_border=true&#x26;title_color=fbf1c7&#x26;text_color=d4be98&#x26;icon_color=83a598" alt="Top Languages">
