@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoanbucon&label=Profile%20views&color=0e75b6&style=flat" alt="hoanbucon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HoanBuCon" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=hoanbucon&#x26;theme=darkhub&#x26;no-frame=true&#x26;title_color=fbf1c7&#x26;text_color=d4be98" alt="GitHub Trophies"></a> </p>
 
 - 🔭 I’m currently working on [Vietnam Traffic Sign Detection](https://github.com/HoanBuCon/Traffic-Sign-Detection)
 
@@ -51,8 +51,4 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanbucon&show_icons=true&locale=en&layout=compact" alt="hoanbucon" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoanbucon&show_icons=true&locale=en" alt="hoanbucon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoanbucon&" alt="hoanbucon" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=hoanbucon&#x26;show_icons=true&#x26;theme=dark&#x26;hide_border=true&#x26;title_color=fbf1c7&#x26;text_color=d4be98&#x26;icon_color=83a598&#x26;show=reviews,prs_merged" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanbucon&#x26;layout=compact&#x26;theme=dark&#x26;hide_border=true&#x26;title_color=fbf1c7&#x26;text_color=d4be98&#x26;icon_color=83a598" alt="Top Languages"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoanbucon&#x26;theme=dark&#x26;hide_border=true&#x26;background=0D1117&#x26;ring=83a598&#x26;fire=fe8019&#x26;currStreakNum=fbf1c7&#x26;sideNums=fbf1c7&#x26;currStreakLabel=fbf1c7&#x26;sideLabels=d4be98" alt="GitHub Streak">
