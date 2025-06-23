@@ -1,10 +1,11 @@
 <h1 align="center">👋 Hi, I'm Hoàn Bự Con</h1>
 <h3 align="center">I'm an intern from Vietnam, currently working on Machine Learning, Deep Learning and Computer Vision.</h3>
 
+<!-- LƯU Ý: Nếu có &#x26; thì phải sửa thành & -->
 <div align="center">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=hoanbucon&label=Profile%20views&color=0e75b6&style=flat" alt="hoanbucon" /> </p>
 
-  <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hoanbucon&#x26;theme=darkhub&#x26;no-frame=true&#x26;title_color=fbf1c7&#x26;text_color=d4be98" alt="GitHub Trophies"></a> </p>
+  <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hoanbucon&theme=darkhub&no-frame=true&title_color=fbf1c7&text_color=d4be98" alt="GitHub Trophies"></a> </p>
 </div>
 
 <hr>
@@ -63,9 +64,10 @@
 
 <hr>
 
+<!-- LƯU Ý: Nếu có &#x26; thì phải sửa thành & -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoanbucon&#x26;show_icons=true&#x26;theme=dark&#x26;hide_border=true&#x26;title_color=fbf1c7&#x26;text_color=d4be98&#x26;icon_color=83a598&#x26;show=reviews,prs_merged" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanbucon&#x26;layout=compact&#x26;theme=dark&#x26;hide_border=true&#x26;title_color=fbf1c7&#x26;text_color=d4be98&#x26;icon_color=83a598" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoanbucon&show_icons=true&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&show=reviews,prs_merged" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanbucon&layout=compact&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&cache_bust=1" alt="Top Languages">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoanbucon&#x26;theme=dark&#x26;hide_border=true&#x26;background=0D1117&#x26;ring=83a598&#x26;fire=fe8019&#x26;currStreakNum=fbf1c7&#x26;sideNums=fbf1c7&#x26;currStreakLabel=fbf1c7&#x26;sideLabels=d4be98" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=hoanbucon&theme=dark&hide_border=true&background=0D1117&ring=83a598&fire=fe8019&currStreakNum=fbf1c7&sideNums=fbf1c7&currStreakLabel=fbf1c7&sideLabels=d4be98&cache_bust=1" alt="GitHub Streak">
 </div>
