@@ -32,13 +32,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/lonnhim.khoaitay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lonnhim.khoaitay/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/lonnhim.khoailang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lonnhim.khoailang/" height="30" width="40" /></a>
-<a href="https://instagram.com/love.nilou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="love.nilou" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@hoanbucon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@hoanbucon" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/nckzdQE73u" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="https://discord.gg/nckzdQE73u" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hoanbucon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoanbucon" height="30" width="40" /></a>
-<a href="https://kaggle.com/hoanbucon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hoanbucon" height="30" width="40" /></a>
+<a href="https://www.facebook.com/lonnhim.khoaitay/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lonnhim.khoaitay/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/lonnhim.khoailang/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lonnhim.khoailang/" height="30" width="40" /></a>
+<a href="https://instagram.com/love.nilou" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="love.nilou" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hoanbucon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@hoanbucon" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/nckzdQE73u" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="https://discord.gg/nckzdQE73u" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hoanbucon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoanbucon" height="30" width="40" /></a>
+<a href="https://kaggle.com/hoanbucon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hoanbucon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
