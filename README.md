@@ -22,7 +22,7 @@
 
 - 💬 Ask me about: **TensorFlow, PyTorch, ReactJS, DiscordJS, ...**
 
-- 📫 How to reach me: ***hoanbucon@gmail.com*** | [http://linktr.ee/hoanbucon](http://linktr.ee/hoanbucon)
+- 📫 How to reach me: ***hoanbucon@gmail.com*** | [hoanbucon.id.vn](http://hoanbucon.id.vn) | [linktr.ee/hoanbucon](http://linktr.ee/hoanbucon)
 
 - 📄 Know about my experiences ... Bruhhh💔🥀
 
