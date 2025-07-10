@@ -26,7 +26,7 @@
 
 - 📄 Know about my experiences ... Bruhhh💔🥀
 
-- ⚡ Fun fact: **I think I got bain damge🐧**
+- ⚡ Fun fact: **I scroll memes like it's my full-time unpaid internship, lol🐧**
 
 <hr>
 
