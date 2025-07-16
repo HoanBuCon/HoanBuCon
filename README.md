@@ -5,9 +5,9 @@
 <div align="center">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=hoanbucon&label=Profile%20views&color=0e75b6&style=flat" alt="hoanbucon" /> </p>
 
-  <img src="https://raw.githubusercontent.com/HoanBuCon/HoanBuCon/main/banner.jpg" alt="Youtube-banner-HBC" />
+  <img src="https://raw.githubusercontent.com/HoanBuCon/HoanBuCon/master/banner.jpg" alt="Youtube-banner-HBC" />
 
-  <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hoanbucon&theme=darkhub&no-frame=true&title_color=fbf1c7&text_color=d4be98" alt="GitHub Trophies"></a> </p>
+  <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hoanbucon&theme=darkhub&no-frame=true&title_color=fbf1c7&text_color=d4be98&cache_bust=10" alt="GitHub Trophies"></a> </p>
 </div>
 
 <hr>
@@ -24,23 +24,23 @@
 
 - 💬 Ask me about: **TensorFlow, PyTorch, ReactJS, DiscordJS, ...**
 
-- 📫 How to reach me: ***hoanbucon@gmail.com*** | [http://linktr.ee/hoanbucon](http://linktr.ee/hoanbucon)
+- 📫 How to reach me: ***hoanbucon@gmail.com*** | [hoanbucon.id.vn](http://hoanbucon.id.vn)
 
 - 📄 Know about my experiences ... Bruhhh💔🥀
 
-- ⚡ Fun fact: **I think I got bain damge🐧**
+- ⚡ Fun fact: **I scroll memes like it's my full-time unpaid internship, lol🐧**
 
 <hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/lonnhim.khoaitay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lonnhim.khoaitay/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/lonnhim.khoailang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lonnhim.khoailang/" height="30" width="40" /></a>
-<a href="https://instagram.com/love.nilou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="love.nilou" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@hoanbucon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@hoanbucon" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/nckzdQE73u" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="https://discord.gg/nckzdQE73u" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hoanbucon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoanbucon" height="30" width="40" /></a>
-<a href="https://kaggle.com/hoanbucon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hoanbucon" height="30" width="40" /></a>
+<a href="https://www.facebook.com/lonnhim.khoaitay/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lonnhim.khoaitay/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/lonnhim.khoailang/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/lonnhim.khoailang/" height="30" width="40" /></a>
+<a href="https://instagram.com/love.nilou" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="love.nilou" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hoanbucon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@hoanbucon" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/nckzdQE73u" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="https://discord.gg/nckzdQE73u" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hoanbucon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hoanbucon" height="30" width="40" /></a>
+<a href="https://kaggle.com/hoanbucon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hoanbucon" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -67,9 +67,10 @@
 <hr>
 
 <!-- LƯU Ý: Nếu có &#x26; thì phải sửa thành & -->
+<!-- Tăng cache_bust=n lên n+1 mỗi lần update -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hoanbucon&show_icons=true&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&show=reviews,prs_merged" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanbucon&layout=compact&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&cache_bust=1" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoanbucon&show_icons=true&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&show=reviews,prs_merged&cache_bust=10" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanbucon&layout=compact&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&cache_bust=10" alt="Top Languages">
   <br>
-  <img src="https://streak-stats.demolab.com?user=hoanbucon&theme=dark&hide_border=true&background=0D1117&ring=83a598&fire=fe8019&currStreakNum=fbf1c7&sideNums=fbf1c7&currStreakLabel=fbf1c7&sideLabels=d4be98&cache_bust=1" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=hoanbucon&theme=dark&hide_border=true&background=0D1117&ring=83a598&fire=fe8019&currStreakNum=fbf1c7&sideNums=fbf1c7&currStreakLabel=fbf1c7&sideLabels=d4be98&cache_bust=10" alt="GitHub Streak">
 </div>
