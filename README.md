@@ -5,6 +5,8 @@
 <div align="center">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=hoanbucon&label=Profile%20views&color=0e75b6&style=flat" alt="hoanbucon" /> </p>
 
+  <img src="https://raw.githubusercontent.com/HoanBuCon/HoanBuCon/main/banner.jpg" alt="Youtube-banner-HBC" />
+
   <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hoanbucon&theme=darkhub&no-frame=true&title_color=fbf1c7&text_color=d4be98" alt="GitHub Trophies"></a> </p>
 </div>
 
