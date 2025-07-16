@@ -67,7 +67,6 @@
 <!-- LƯU Ý: Nếu có &#x26; thì phải sửa thành & -->
 <!-- Tăng cache_bust=n lên n+1 mỗi lần update -->
 <div align="center">
-  <br>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=hoanbucon&label=Profile%20views&color=0e75b6&style=flat" alt="hoanbucon" /> </p>
   <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hoanbucon&theme=darkhub&no-frame=true&title_color=fbf1c7&text_color=d4be98&cache_bust=10" alt="GitHub Trophies"></a> </p>
   <img src="https://github-readme-stats.vercel.app/api?username=hoanbucon&show_icons=true&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&show=reviews,prs_merged&cache_bust=10" alt="GitHub Stats">
