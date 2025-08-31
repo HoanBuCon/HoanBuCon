@@ -68,7 +68,7 @@
 <!-- Tăng cache_bust=n lên n+1 mỗi lần update -->
 <div align="center">
   <p align="center"><img src="https://komarev.com/ghpvc/?username=hoanbucon&label=Profile%20views&color=2f2f2f&style=flat" alt="hoanbucon" /></p>
-  <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hoanbucon&theme=darkhub&no-frame=true&title_color=fbf1c7&text_color=d4be98&cache_bust=14" alt="GitHub Trophies"></a> </p>
+  <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=hoanbucon&theme=darkhub&no-frame=true&column=-1&margin-w=20&margin-h=10&title_color=fbf1c7&text_color=d4be98" alt="GitHub Trophies" /></p>
   <img src="https://github-readme-stats.vercel.app/api?username=hoanbucon&show_icons=true&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&show=reviews,prs_merged&cache_bust=14" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanbucon&layout=compact&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&cache_bust=14" alt="Top Languages">
   <br>
