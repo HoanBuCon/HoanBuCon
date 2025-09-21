@@ -12,7 +12,7 @@
 
 <h3>About me:</h3>  
 
-- 🔭 I’m currently working on [Vietnam Traffic Sign Detection](https://github.com/HoanBuCon/Traffic-Sign-Detection)
+- 🔭 I’m currently working on [To-Do List Website](https://github.com/HoanBuCon/ToDo-List-Website)
 
 - 💝 My first project: [Discord Bot](https://github.com/HoanBuCon/Discord-Bot)
 
