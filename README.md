@@ -11,11 +11,10 @@
 
 <table>
   <tr>
-    <td valign="center">
-      <img src="https://raw.githubusercontent.com/HoanBuCon/HoanBuCon/master/assets/chisa_looking_cut.gif" width="280" align="center" alt="My GIF">
+    <td width="30%" valign="center">
+      <img src="https://raw.githubusercontent.com/HoanBuCon/HoanBuCon/master/assets/chisa_looking_cut.gif" align="center" style="width: 100%" alt="My GIF">
     </td>
-    
-    <td valign="top">
+    <td width="70%" valign="top">
       <h3>About me:</h3>
       <ul>
         <li>🔭 I’m currently working on <a href="https://github.com/HoanBuCon/ToDo-List-Website">To-Do List Website</a></li>
