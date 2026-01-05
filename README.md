@@ -21,9 +21,9 @@
         <li>💝 My first project: <a href="https://github.com/HoanBuCon/Discord-Bot">Discord Bot</a></li>
         <li>👨‍💻 All of my projects are available at <a href="https://github.com/HoanBuCon?tab=repositories">My Repositories</a></li>
         <li>📝 I regularly create content on <a href="https://www.youtube.com/@hoanbucon">@hoanbucon</a></li>
-        <li>💬 Ask me about: <strong>TensorFlow, PyTorch, ReactJS, DiscordJS...</strong></li>
-        <li>📫 How to reach me: <strong>hoanbucon@gmail.com</strong> | <a href="http://hoanbucon.id.vn">hoanbucon.id.vn</a></li>
-        <li>📄 Know about my experiences ... Bruhhh💔🥀</li>
+        <li>💬 Ask me about: <strong>Why training Accuracy is 1.0 and Loss is NaN☠️🐧</strong></li>
+        <li>📫 How to reach me: <a href="mailto:hoanbucon@gmail.com">hoanbucon@gmail.com</a> | <a href="http://hoanbucon.id.vn">hoanbucon.id.vn</a></li>
+        <li>📄 Know about my experiences: <strong>Error 404: Experience Not Found (Yet)🐧</strong></li>
         <li>⚡ Fun fact: <strong>I scroll memes like it's my full-time unpaid internship, lol🐧</strong></li>
       </ul>
     </td>
