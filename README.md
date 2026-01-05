@@ -9,26 +9,23 @@
 
 <hr>
 
-<table>
-  <tr>
-    <td width="30%" valign="center">
-      <img src="https://raw.githubusercontent.com/HoanBuCon/HoanBuCon/master/assets/chisa_looking_cut.gif" align="center" style="width: 100%" alt="My GIF">
-    </td>
-    <td width="70%" valign="top">
-      <h3>About me:</h3>
-      <ul>
-        <li>🔭 I’m currently working on <a href="https://github.com/HoanBuCon/ToDo-List-Website">To-Do List Website</a></li>
-        <li>💝 My first project: <a href="https://github.com/HoanBuCon/Discord-Bot">Discord Bot</a></li>
-        <li>👨‍💻 All of my projects are available at <a href="https://github.com/HoanBuCon?tab=repositories">My Repositories</a></li>
-        <li>📝 I regularly create content on <a href="https://www.youtube.com/@hoanbucon">@hoanbucon</a></li>
-        <li>💬 Ask me about: <strong>TensorFlow, PyTorch, ReactJS, DiscordJS...</strong></li>
-        <li>📫 How to reach me: <strong>hoanbucon@gmail.com</strong> | <a href="http://hoanbucon.id.vn">hoanbucon.id.vn</a></li>
-        <li>📄 Know about my experiences ... Bruhhh💔🥀</li>
-        <li>⚡ Fun fact: <strong>I scroll memes like it's my full-time unpaid internship, lol🐧</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div>
+  <img align="left" width="35%" src="https://raw.githubusercontent.com/HoanBuCon/HoanBuCon/master/assets/chisa_looking_cut.gif" alt="My GIF" style="padding-right: 20px" />
+  
+  <h3>About me:</h3>
+  <ul>
+    <li>🔭 I’m currently working on <a href="https://github.com/HoanBuCon/ToDo-List-Website">To-Do List Website</a></li>
+    <li>💝 My first project: <a href="https://github.com/HoanBuCon/Discord-Bot">Discord Bot</a></li>
+    <li>👨‍💻 All of my projects are available at <a href="https://github.com/HoanBuCon?tab=repositories">My Repositories</a></li>
+    <li>📝 I regularly create content on <a href="https://www.youtube.com/@hoanbucon">@hoanbucon</a></li>
+    <li>💬 Ask me about: <strong>TensorFlow, PyTorch, ReactJS, DiscordJS...</strong></li>
+    <li>📫 How to reach me: <strong>hoanbucon@gmail.com</strong> | <a href="http://hoanbucon.id.vn">hoanbucon.id.vn</a></li>
+    <li>📄 Know about my experiences ... Bruhhh💔🥀</li>
+    <li>⚡ Fun fact: <strong>I scroll memes like it's my full-time unpaid internship, lol🐧</strong></li>
+  </ul>
+</div>
+
+<br clear="left"/>
 
 <hr>
 
@@ -72,8 +69,14 @@
 <hr>
 
 <div align="center">
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=hoanbucon&label=Profile%20views&color=2f2f2f&style=flat" alt="hoanbucon" /></p>
-  <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=hoanbucon&theme=darkhub&no-frame=true&column=-1&margin-w=20&margin-h=10&title_color=fbf1c7&text_color=d4be98" alt="GitHub Trophies" /></p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=hoanbucon&show_icons=true&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&show=reviews,prs_merged&cache_bust=21" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanbucon&layout=compact&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&cache_bust=21" />
+  </a>
+  
+  <br>
 
   <div align="center">
     <picture>
@@ -82,9 +85,15 @@
       <img alt="Snake animation" src="https://raw.githubusercontent.com/HoanBuCon/HoanBuCon/output/snake.svg" />
     </picture>
   </div>
+  
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=hoanbucon&show_icons=true&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&show=reviews,prs_merged&cache_bust=21" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanbucon&layout=compact&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&cache_bust=21" alt="Top Languages">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=hoanbucon&theme=dark&hide_border=true&background=0D1117&ring=83a598&fire=fe8019&currStreakNum=fbf1c7&sideNums=fbf1c7&currStreakLabel=fbf1c7&sideLabels=d4be98&cache_bust=21" alt="GitHub Streak">
+  
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=hoanbucon&theme=dark&hide_border=true&background=0D1117&ring=83a598&fire=fe8019&currStreakNum=fbf1c7&sideNums=fbf1c7&currStreakLabel=fbf1c7&sideLabels=d4be98&cache_bust=21" alt="GitHub Streak" />
+  </a>
+  
+  <br><br>
+  
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=hoanbucon&label=Profile%20views&color=2f2f2f&style=flat" alt="hoanbucon" /></p>
+  <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=hoanbucon&theme=darkhub&no-frame=true&column=-1&margin-w=20&margin-h=10&title_color=fbf1c7&text_color=d4be98" alt="GitHub Trophies" /></p>
 </div>
