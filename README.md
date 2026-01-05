@@ -79,7 +79,7 @@
       <img alt="Snake animation" src="https://raw.githubusercontent.com/HoanBuCon/HoanBuCon/output/snake.svg" />
     </picture>
   </div>
-
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=hoanbucon&show_icons=true&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&show=reviews,prs_merged&cache_bust=21" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanbucon&layout=compact&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&cache_bust=21" alt="Top Languages">
   <br>
