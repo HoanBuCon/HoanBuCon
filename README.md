@@ -9,6 +9,10 @@
 
 <hr>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Computer+Vision+Researcher;Fullstack+Web+Developer;Meme+lord+🐧" alt="Typing SVG" />
+</p>
+
 <table>
   <tr>
     <td width="35%" valign="center">
@@ -67,6 +71,12 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/adobe%20premiere-%239999FF.svg?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white" alt="Premiere"/>
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects"/>
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoanbucon&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 <hr>
