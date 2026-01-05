@@ -7,11 +7,11 @@
   </a>
 </div>
 
-<hr>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Computer+Vision+Researcher;Fullstack+Web+Developer;Meme+lord+🐧" alt="Typing SVG" />
 </p>
+
+<hr>
 
 <table>
   <tr>
@@ -75,14 +75,7 @@
 
 <hr>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoanbucon&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<hr>
-
 <div align="center">
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=hoanbucon&label=Profile%20views&color=2f2f2f&style=flat" alt="hoanbucon" /></p>
   <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=hoanbucon&theme=darkhub&no-frame=true&column=-1&margin-w=20&margin-h=10&title_color=fbf1c7&text_color=d4be98" alt="GitHub Trophies" /></p>
 
   <div align="center">
@@ -92,9 +85,13 @@
       <img alt="Snake animation" src="https://raw.githubusercontent.com/HoanBuCon/HoanBuCon/output/snake.svg" />
     </picture>
   </div>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoanbucon&bg_color=0D1117&color=3fb950&line=3fb950&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </p>
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=hoanbucon&show_icons=true&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&show=reviews,prs_merged&cache_bust=21" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoanbucon&layout=compact&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&cache_bust=21" alt="Top Languages">
   <br>
   <img src="https://streak-stats.demolab.com?user=hoanbucon&theme=dark&hide_border=true&background=0D1117&ring=83a598&fire=fe8019&currStreakNum=fbf1c7&sideNums=fbf1c7&currStreakLabel=fbf1c7&sideLabels=d4be98&cache_bust=21" alt="GitHub Streak">
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=hoanbucon&label=Profile%20views&color=2f2f2f&style=flat" alt="hoanbucon" /></p>
 </div>
