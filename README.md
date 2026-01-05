@@ -15,7 +15,6 @@
       <img src="https://raw.githubusercontent.com/HoanBuCon/HoanBuCon/master/assets/chisa_looking_cut.gif" align="center" style="width: 100%" alt="My GIF">
     </td>
     <td width="70%" valign="top">
-      <h3>About me:</h3>
       <ul>
         <li>🔭 I’m currently working on <a href="https://github.com/HoanBuCon/ToDo-List-Website">To-Do List Website</a></li>
         <li>💝 My first project: <a href="https://github.com/HoanBuCon/Discord-Bot">Discord Bot</a></li>
