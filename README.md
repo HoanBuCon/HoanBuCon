@@ -7,10 +7,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Computer+Vision+Researcher;Fullstack+Web+Developer;Meme+lord+🐧" alt="Typing SVG" />
-</p>
-
 <hr>
 
 <table>
@@ -74,6 +70,10 @@
 </p>
 
 <hr>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Computer+Vision+Researcher;Fullstack+Web+Developer;Meme+lord+🐧" alt="Typing SVG" />
+</p>
 
 <div align="center">
   <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=hoanbucon&theme=darkhub&no-frame=true&column=-1&margin-w=20&margin-h=10&title_color=fbf1c7&text_color=d4be98" alt="GitHub Trophies" /></p>
