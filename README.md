@@ -89,9 +89,9 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HoanBuCon&bg_color=0D1117&color=3fb950&line=3fb950&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </p>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=HoanBuCon&show_icons=true&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&show=reviews,prs_merged&cache_bust=<?=time()?>" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoanBuCon&layout=compact&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&cache_bust=<?=time()?>" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=HoanBuCon&show_icons=true&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&show=reviews,prs_merged&cache_bust=22" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoanBuCon&layout=compact&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&cache_bust=22" alt="Top Languages">
   <br>
-  <img src="https://streak-stats.demolab.com?user=hoanbucon&theme=dark&hide_border=true&background=0D1117&ring=83a598&fire=fe8019&currStreakNum=fbf1c7&sideNums=fbf1c7&currStreakLabel=fbf1c7&sideLabels=d4be98&cache_bust=<?=time()?>" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=hoanbucon&theme=dark&hide_border=true&background=0D1117&ring=83a598&fire=fe8019&currStreakNum=fbf1c7&sideNums=fbf1c7&currStreakLabel=fbf1c7&sideLabels=d4be98&cache_bust=22" alt="GitHub Streak">
   <p align="center"><img src="https://komarev.com/ghpvc/?username=HoanBuCon&label=Profile%20views&color=2f2f2f&style=flat" alt="hoanbucon" /></p>
 </div>
