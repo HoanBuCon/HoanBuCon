@@ -17,7 +17,7 @@
     <td width="65%" valign="top">
       <h3>About me:</h3>
       <ul>
-        <li>🔭 I’m currently working on <a href="https://github.com/HoanBuCon/ToDo-List-Website">To-Do List Website</a> and <a href="https://github.com/HoanBuCon/Quiz-Website">LiemDai Quiz Website</a></li>
+        <li>🔭 I’m currently working on <a href="https://github.com/HoanBuCon/Kuchiba-Chisa">Chisa AI</a> and <a href="https://github.com/HoanBuCon/Quiz-Website">LiemDai Quiz Website</a></li>
         <li>💝 My first project: <a href="https://github.com/HoanBuCon/Discord-Bot">Discord Bot</a></li>
         <li>👨‍💻 All of my projects are available at <a href="https://github.com/HoanBuCon?tab=repositories">My Repositories</a></li>
         <li>📝 I regularly create content on <a href="https://www.youtube.com/@hoanbucon">YouTube</a></li>
@@ -93,5 +93,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoanBuCon&layout=compact&theme=dark&hide_border=true&title_color=fbf1c7&text_color=d4be98&icon_color=83a598&cache_bust=22" alt="Top Languages">
   <br>
   <img src="https://streak-stats.demolab.com?user=hoanbucon&theme=dark&hide_border=true&background=0D1117&ring=83a598&fire=fe8019&currStreakNum=fbf1c7&sideNums=fbf1c7&currStreakLabel=fbf1c7&sideLabels=d4be98&cache_bust=22" alt="GitHub Streak">
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=HoanBuCon&label=Profile%20views&color=2f2f2f&style=flat" alt="hoanbucon" /></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=HoanBuCon&label=Profile%20views&color=2f2f2f&style=for-the-badge" alt="hoanbucon" /></p>
 </div>
