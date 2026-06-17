@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://hoanbucon.id.vn" target="_blank">
-    <img src="https://raw.githubusercontent.com/HoanBuCon/HoanBuCon/master/assets/Youtube-banner-HBC.png" alt="Youtube-banner-HBC" />
+    <img src="https://raw.githubusercontent.com/HoanBuCon/HoanBuCon/master/assets/Youtube-banner-HBC_2.png" alt="Youtube-banner-HBC" />
   </a>
 </div>
 
