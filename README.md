@@ -20,7 +20,7 @@
         <li>🔭 I’m currently working on <a href="https://github.com/HoanBuCon/Kuchiba-Chisa">Chisa AI</a> and <a href="https://github.com/HoanBuCon/Quiz-Website">LiemDai Quiz Website</a></li>
         <li>💝 My first project: <a href="https://github.com/HoanBuCon/Discord-Bot">Discord Bot</a></li>
         <li>👨‍💻 All of my projects are available at <a href="https://github.com/HoanBuCon?tab=repositories">My Repositories</a></li>
-        <li>📝 I regularly create content on <a href="https://www.youtube.com/@hoanbucon">YouTube</a></li>
+        <li>📝 I regularly create content on <a href="https://www.youtube.com/@sigmahoan">YouTube</a></li>
         <li>💬 Ask me about: <strong>Why training Accuracy is 1.0 and Loss is NaN☠️🐧</strong></li>
         <li>📫 How to reach me: <a href="mailto:hoanbucon@gmail.com">hoanbucon@gmail.com</a> | <a href="http://hoanbucon.id.vn">hoanbucon.id.vn</a></li>
         <li>📄 Know about my experiences: <strong>Error 404: Experience Not Found (Yet)🐧</strong></li>
@@ -36,7 +36,7 @@
 <p align="left">
 <a href="https://www.facebook.com/lonnhim.khoaitay/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lonnhim.khoaitay" height="30" width="40" /></a>
 <a href="https://www.facebook.com/lonnhim.khoailang/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lonnhim.khoailang" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@hoanbucon" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hoanbucon" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@sigmahoan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hoanbucon" height="30" width="40" /></a>
 <a href="https://instagram.com/love.nilou" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="love.nilou" height="30" width="40" /></a>
 <a href="https://www.tiktok.com/@love.nilou" target="_blank"><img align="center" src="https://wiki.archiveteam.org/images/e/ef/TikTok_logo.png" alt="hoanbucon" height="30" width="30" /></a>
 <a href="https://discord.gg/nckzdQE73u" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/4/4f/Discord_Logo_sans_texte.svg" alt="discord" height="30" width="40" /></a>
