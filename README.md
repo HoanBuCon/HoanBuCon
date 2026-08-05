@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Hoàn Bự Con</h1>
-<h3 align="center">Applied AI Intern specializing in CV & Gen AI</h3>
+<h3 align="center">Applied AI Intern from Vietnam specializing in CV & Gen AI</h3>
 
 <div align="center">
   <a href="https://hoanbucon.id.vn" target="_blank">
