@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Hoàn Bự Con</h1>
-<h3 align="center">I'm an intern from Vietnam, currently working on Machine Learning, Deep Learning and Computer Vision.</h3>
+<h3 align="center">Applied AI Intern specializing in CV & Gen AI</h3>
 
 <div align="center">
   <a href="https://hoanbucon.id.vn" target="_blank">
@@ -21,10 +21,10 @@
         <li>💝 My first project: <a href="https://github.com/HoanBuCon/Discord-Bot">Discord Bot</a></li>
         <li>👨‍💻 All of my projects are available at <a href="https://github.com/HoanBuCon?tab=repositories">My Repositories</a></li>
         <li>📝 I regularly create content on <a href="https://www.youtube.com/@sigmahoan">YouTube</a></li>
-        <li>💬 Ask me about: <strong>Why training Accuracy is 1.0 and Loss is NaN☠️🐧</strong></li>
+        <li>💬 Ask me about <strong>What?</strong></li>
         <li>📫 How to reach me: <a href="mailto:hoanbucon@gmail.com">hoanbucon@gmail.com</a> | <a href="http://hoanbucon.id.vn">hoanbucon.id.vn</a></li>
-        <li>📄 Know about my experiences: <strong>Error 404: Experience Not Found (Yet)🐧</strong></li>
-        <li>⚡ Fun fact: <strong>I scroll memes like It's my full-time unpaid internship, lol🐧</strong></li>
+        <li>📄 Know about my experiences: <strong>Error 404</strong></li>
+        <li>⚡ Fun fact: <strong>Milkita milk candy is made from sugar</strong></li>
       </ul>
     </td>
   </tr>
